@@ -2,6 +2,7 @@
 Graph transformation:
 
 Algorytm dokładny o złożoności wielomianowej, który:
+
 − wczytuje dowolny graf skierowany z pliku tekstowego,
 − sprawdza czy wczytany graf jest grafem sprzężonym (jeśli graf jest grafem sprzężonym, to sprawdza czy jest on grafem liniowym),
 − wypisuje komunikat o wyniku powyższego sprawdzenia,
